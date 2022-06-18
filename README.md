@@ -1,0 +1,2 @@
+# Multiplication-table
+This project is for the beginners who are just their c programming and who do not understand which projects to create. So this is a small program to create a beginners level multiplication table.
